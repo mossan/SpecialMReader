@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SpecialMReader</string>
+    <string name="title">まとまリーダー</string>
+    <string name="action_settings">Settings</string>
+</resources>
